@@ -1,0 +1,14 @@
+{
+    "name": "ipa-bot",
+    "version": "0.2.0",
+    "dependencies": {
+        "audio-converter": "^1.0.13",
+        "dotenv": "^6.2.0",
+        "mespeak": "^2.0.2",
+        "slimbot": "^0.8.6",
+        "tmp": "0.0.33"
+    },
+    "scripts": {
+        "start": "node MainBot.js"
+    }
+}
